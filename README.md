@@ -1,2 +1,2 @@
-# public_code
-Python code for varied applications
+# API creation (Python - Flask)
+CSS/html/python components
